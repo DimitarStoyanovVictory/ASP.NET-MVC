@@ -16,7 +16,7 @@ namespace Twitter.Data
 
         public DbSet<User> Users { get; set; }
 
-        public DbSet<Tweet> Tweets { get; set; }
+        public DbSet<Twiit> Tweets { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -43,7 +43,7 @@ namespace Twitter.Data
 
             // Tweets
 
-            modelBuilder.Entity<Tweet>()
+            modelBuilder.Entity<Twiit>()
                 .HasRequired(t => t.User)
                 .WithMany(u => u.Tweets)
                 .HasForeignKey(u => u.UserId)

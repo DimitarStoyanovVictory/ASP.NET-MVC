@@ -2,7 +2,7 @@
 {
     using System.Collections.Generic;
 
-    public class Tweet
+    public class Twiit
     {
         private HashSet<User> _userTweetFavour;
         private HashSet<User> _userReTweets;

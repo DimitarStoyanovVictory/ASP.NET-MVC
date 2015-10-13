@@ -124,9 +124,9 @@
         {
             var users = twitterDb.Users.ToList();
 
-            users[0].Tweets.Add(new Tweet());
-            users[0].Tweets.Add(new Tweet());
-            users[0].Tweets.Add(new Tweet());
+            users[0].Tweets.Add(new Twiit());
+            users[0].Tweets.Add(new Twiit());
+            users[0].Tweets.Add(new Twiit());
 
             twitterDb.SaveChanges();
         }

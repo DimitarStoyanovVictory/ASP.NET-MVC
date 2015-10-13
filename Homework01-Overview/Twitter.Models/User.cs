@@ -7,13 +7,13 @@
     {
         private HashSet<User> _followers;
         private HashSet<User> _followings;
-        private HashSet<Tweet> _tweets;
+        private HashSet<Twiit> _tweets;
         private HashSet<Message> _messages;
-        private HashSet<Tweet> _favouriteTweets;
-        private HashSet<Tweet> _reTweets;
-        private HashSet<Tweet> _reportedTweetsAsCorrupt;
-        private HashSet<Tweet> _reportedTweetsToFacebook;
-        private HashSet<Tweet> _replyTweets;
+        private HashSet<Twiit> _favouriteTweets;
+        private HashSet<Twiit> _reTweets;
+        private HashSet<Twiit> _reportedTweetsAsCorrupt;
+        private HashSet<Twiit> _reportedTweetsToFacebook;
+        private HashSet<Twiit> _replyTweets;
         private HashSet<Notification> _notifications; 
 
         public int Id { get; set; }
@@ -28,19 +28,19 @@
 
         public virtual ICollection<User> Followings => _followings ?? (_followings = new HashSet<User>());
 
-        public virtual ICollection<Tweet> Tweets => _tweets ?? (_tweets = new HashSet<Tweet>());
+        public virtual ICollection<Twiit> Tweets => _tweets ?? (_tweets = new HashSet<Twiit>());
 
         public virtual ICollection<Message> Messages => _messages ?? (_messages = new HashSet<Message>());
 
-        public virtual ICollection<Tweet> FavouriteTweets => _favouriteTweets ?? (_favouriteTweets = new HashSet<Tweet>());
+        public virtual ICollection<Twiit> FavouriteTweets => _favouriteTweets ?? (_favouriteTweets = new HashSet<Twiit>());
 
-        public virtual ICollection<Tweet> ReTweets => _reTweets ?? (_reTweets = new HashSet<Tweet>());
+        public virtual ICollection<Twiit> ReTweets => _reTweets ?? (_reTweets = new HashSet<Twiit>());
 
-        public virtual ICollection<Tweet> ReportedTweetsAsCorrupt => _reportedTweetsAsCorrupt ?? (_reportedTweetsAsCorrupt = new HashSet<Tweet>());
+        public virtual ICollection<Twiit> ReportedTweetsAsCorrupt => _reportedTweetsAsCorrupt ?? (_reportedTweetsAsCorrupt = new HashSet<Twiit>());
 
-        public virtual ICollection<Tweet> ReportedTweetsToFacebook => _reportedTweetsToFacebook ?? (_reportedTweetsToFacebook = new HashSet<Tweet>());
+        public virtual ICollection<Twiit> ReportedTweetsToFacebook => _reportedTweetsToFacebook ?? (_reportedTweetsToFacebook = new HashSet<Twiit>());
 
-        public virtual ICollection<Tweet> ReplyTweets => _replyTweets ?? (_replyTweets = new HashSet<Tweet>());
+        public virtual ICollection<Twiit> ReplyTweets => _replyTweets ?? (_replyTweets = new HashSet<Twiit>());
 
         public virtual ICollection<Notification> Notifications => _notifications ?? (_notifications = new HashSet<Notification>());
     }
