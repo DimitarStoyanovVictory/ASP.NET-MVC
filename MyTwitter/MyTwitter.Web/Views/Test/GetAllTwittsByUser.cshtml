@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h1>My test cntroller</h1>
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>@foreach (var twitt in @ViewData.Model)
+   {
+       @twitt.Author 
+        @twitt.Text;
+   }</p>
+
+<p>Use this area to provide additional information.</p>
