@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Twitter.App.Models.ViewModels.TweetViewModel>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@foreach (var model in Model)
+{
+    <div class="container">
+        <h2>@Html.DisplayFor(m => model.Content)</h2>
+        <h4>@Html.DisplayFor(m => model.Owner.UserName)</h4>
+        <p>Publish Date: @Html.DisplayFor(m => model.PublishDate, "{0:dd/MM/yyyy}")<p>
+        <p>Favorites: @Html.DisplayFor(m => model.FavoritesCount)
+            Retweets: @Html.DisplayFor(m => model.RetweetsCount)
+            Replies: @Html.DisplayFor(m => model.Replies.Count)
+        </p>
+    </div>
+}
+
+<button class="btn btn-success">
+    @Html.ActionLink("Previous Page", "Index",
+    new { page = (ViewBag.pageNumber - 1) < 1 ? 1 : (ViewBag.pageNumber - 1) })
+</button>
+<button class="btn btn-success">@Html.ActionLink("Next Page", "Index", new { page = (ViewBag.pageNumber + 1) })</button>

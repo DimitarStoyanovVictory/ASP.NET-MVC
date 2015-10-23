@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNet.Identity
+@using Twitter.App.Models
+@model IEnumerable<Twitter.App.Models.ViewModels.TweetViewModel>
+@{
+    ViewBag.Title = "User Home";
+}
+<br/>
+<button class="btn btn-default">@Html.ActionLink("Tweet!", "Tweet", "Tweets")</button>
+
+@foreach (var model in Model)
+{
+    <div class="container">
+        <h2>@Html.DisplayFor(m => model.Content)</h2>
+        <h4>@Html.DisplayFor(m => model.Owner.UserName)</h4>
+        <p>Publish Date: @Html.DisplayFor(m => model.PublishDate)
+        Favorites: @Html.DisplayFor(m => model.FavoritesCount)
+        Retweets: @Html.DisplayFor(m => model.RetweetsCount)
+        Replies: @Html.DisplayFor(m => model.Replies.Count)</p>
+    </div>
+}
+
+<button class="btn btn-success">@Html.ActionLink("Previous Page", "UserHome",
+    new { page = (ViewBag.pageNumber - 1) < 1 ? 1 : (ViewBag.pageNumber - 1) })</button>
+<button class="btn btn-success">@Html.ActionLink("Next Page", "UserHome", new { page = (ViewBag.pageNumber + 1) })</button>
+

@@ -1,0 +1,16 @@
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Twitter.Data.dll.config
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Twitter.Data.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Twitter.Data.pdb
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\EntityFramework.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Twitter.Models.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Twitter.Models.pdb
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\EntityFramework.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\obj\Debug\Twitter.Data.csprojResolveAssemblyReference.cache
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\obj\Debug\Twitter.Data.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Data\obj\Debug\Twitter.Data.pdb

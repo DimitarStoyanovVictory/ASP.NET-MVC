@@ -1,0 +1,26 @@
+﻿@model Twitter.App.Models.ViewModels.UserProfileViewModel
+@{
+    ViewBag.Title = "ViewProfile";
+}
+
+<h1>User: @Model.User.UserName</h1>
+<p>Tweets: @Model.Tweets.Count</p>
+<p>Following: @Model.Following.Count</p>
+<p>Followers: @Model.Followers.Count</p>
+<p>Favorites: @Model.Favorites.Count</p>
+
+<h2>Tweets: </h2>
+@foreach (var model in Model.Tweets)
+{
+    <div class="container">
+        <h3>@Html.DisplayFor(m => model.Content)</h3>
+        <h4>@Html.DisplayFor(m => model.Owner.UserName)</h4>
+        <p>Publish Date: @Html.DisplayFor(m => model.PublishDate, "{0:dd/MM/yyyy}")<p>
+        <p>
+            Favorites: @Html.DisplayFor(m => model.FavoritesCount)
+            Retweets: @Html.DisplayFor(m => model.RetweetsCount)
+            Replies: @Html.DisplayFor(m => model.Replies.Count)
+        </p>
+    </div>
+}
+

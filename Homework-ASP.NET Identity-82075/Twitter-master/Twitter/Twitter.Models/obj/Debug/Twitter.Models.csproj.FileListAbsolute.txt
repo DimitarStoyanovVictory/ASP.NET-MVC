@@ -1,0 +1,14 @@
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\Twitter.Models.dll.config
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\Twitter.Models.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\Twitter.Models.pdb
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\EntityFramework.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\EntityFramework.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\obj\Debug\Twitter.Models.csprojResolveAssemblyReference.cache
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\obj\Debug\Twitter.Models.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-ASP.NET Identity-82075\Twitter-master\Twitter\Twitter.Models\obj\Debug\Twitter.Models.pdb
