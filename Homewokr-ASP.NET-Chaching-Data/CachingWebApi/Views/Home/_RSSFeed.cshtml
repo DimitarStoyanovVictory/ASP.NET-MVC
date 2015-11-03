@@ -1,0 +1,7 @@
+﻿@using System.Xml.Linq
+<h1>All RSS Feeds:</h1>
+
+@{
+    string feedsLink = "https://softuni.bg/feed/news";
+    <p>@XDocument.Load(feedsLink);</p>
+}

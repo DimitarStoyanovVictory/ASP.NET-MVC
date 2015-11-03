@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Twitter.Web.Models.ViewModels.Tweet.TweetViewModel>
+<div class="jumbotron">
+    <h1 class="text-center">All Tweets</h1>
+</div>
+<div class="row">
+    @{
+        Html.RenderPartial("~/Views/Tweet/_TweetsPartial.cshtml", Model);
+    }
+</div>

@@ -1,0 +1,9 @@
+Работил съм по:
+View/Home/index
+View/Notifications/index
+Controllers/NotificationController
+Hubs/TwitterHub
+
+Въпроси:
+1. В View/Home/index съм сложил неща който не излизат при отварянето на страницата не знам раоутигна мисля че не илиза това зради HomeControllera така ли е?
+2. Ако си направил това домашно може ли link към githuba ти с обяснение как си го направил?

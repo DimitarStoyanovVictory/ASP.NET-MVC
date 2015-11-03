@@ -1,0 +1,14 @@
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\Caching.Models.dll.config
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\Caching.Models.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\Caching.Models.pdb
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\EntityFramework.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\EntityFramework.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\obj\Debug\Caching.Models.csprojResolveAssemblyReference.cache
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\obj\Debug\Caching.Models.dll
+C:\Users\dimitar.stoyanov\Downloads\Homework-Caching Data-85508\10-Caching-Data-in-ASP.NET-MVC\Caching\Caching.Models\obj\Debug\Caching.Models.pdb

@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<label for="searchBox">City:</label>
+<input type="text" id="searchBox" />
+<div id="citiesList"></div>
+
+@section Scripts {
+    <script>
+        $("#searchBox").keyup(function () {
+            var cityName = $("#searchBox").val();
+            $("#citiesList").html("");
+            if (cityName.length > 0) {
+                $.getJSON("/Home/Search", {
+                    cityName: cityName
+                }, function (result) {
+                    for (var i in result) {
+                        $('<div>').html(result[i]).appendTo("#citiesList");
+                    }
+                });
+            }
+        });
+    </script>    
+}
+
+

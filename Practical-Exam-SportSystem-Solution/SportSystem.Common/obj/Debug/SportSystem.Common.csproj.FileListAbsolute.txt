@@ -1,0 +1,10 @@
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\bin\Debug\AutoMapper.Net4.dll
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\bin\Debug\SportSystem.Common.dll
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\bin\Debug\SportSystem.Common.pdb
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\bin\Debug\AutoMapper.dll
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\bin\Debug\AutoMapper.pdb
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\bin\Debug\AutoMapper.xml
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\bin\Debug\AutoMapper.Net4.pdb
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\obj\Debug\SportSystem.Common.csprojResolveAssemblyReference.cache
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\obj\Debug\SportSystem.Common.dll
+D:\VSProjects\ASP.NET\Practical-Exam-SportSystem-Solution\SportSystem.Common\obj\Debug\SportSystem.Common.pdb

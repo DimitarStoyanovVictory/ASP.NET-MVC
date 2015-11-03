@@ -1,0 +1,1 @@
+D:\VSProjects\ASP.NET\Lecture01.Overview\ASP.NET-08.SignalR\obj\Debug\ASP.NET-08.SignalR.csprojResolveAssemblyReference.cache

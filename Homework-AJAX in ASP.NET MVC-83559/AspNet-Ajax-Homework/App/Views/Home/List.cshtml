@@ -1,0 +1,50 @@
+﻿@model IEnumerable<App.Models.Person>
+
+<h2>Index</h2>
+<ul>
+    @foreach (var person in Model)
+    {
+        <li>
+            @Html.ActionLink(person.FullName, "Person", new { id = person.Id }, new {@class = "person", id = person.Id })
+        </li>
+    }
+    
+</ul>
+@*<div id="personInfo"></div>*@
+
+@section Scripts{
+
+    <script>
+        
+        $(document).ready(function () {
+            $(".person").popover({
+                html: true,
+                trigger: 'hover',
+                title: function () {
+                    return $(this).text();
+                },
+                placement: 'right',
+                content: function () {
+                    var id = this.id;
+                    var personInfo = $('<div>').attr("id", "personInfo");
+                    $.getJSON("/Home/Person", {
+                        id: id
+                    },
+                    function (result) {
+                        
+                        if (result) {
+                            $('<img>').attr("src", result.ImageUrl).appendTo("#personInfo");
+                            $('<div>').html('Adress: ' + result.Address).appendTo("#personInfo");
+                            $('<div>').html('Email: ' + result.Email).appendTo("#personInfo");
+                            $('<div>').html('Status: ' + result.Status).appendTo("#personInfo");
+                            $('<div>').html('Age: ' + result.Age).appendTo("#personInfo");
+                        }
+
+                    });
+                    return personInfo;
+                }
+            });
+        });
+        
+    </script>    
+}

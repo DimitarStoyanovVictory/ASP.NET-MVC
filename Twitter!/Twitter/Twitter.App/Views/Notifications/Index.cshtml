@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>New notification</h2>
+
+@using (Ajax.BeginForm("SendNotification", "Notifications", new AjaxOptions()
+{
+    HttpMethod = "POST",
+    UpdateTargetId = "results",
+    InsertionMode = InsertionMode.InsertAfter
+}))
+
+{
+    <label for="type" class="control-label">Type</label>
+    <input type="text" name="type" id="type" class="form-control" />
+    <label for="notification" class="control-label">Notification:</label>
+    <input type="text" name="notification" id="notification" class="form-control" />
+    <input type="submit" name="Send" class="btn btn-primary" />
+}
+
+@section scripts
+{
+    <script>
+        $(document).ready(function() {
+            var notificationsHub = $.connection.notifications;
+
+            notificationsHub.client.reciveNotification = function (type, notification) {
+                var notificationElement = $("<div>").addClass("alert alert-dismissible alert-" + type).html("<br>");
+                $("#notifications").append(notificationElement);
+            }
+
+            $.connection.hub.start( );
+        });
+    </script>
+}
+
+
+
+
+    

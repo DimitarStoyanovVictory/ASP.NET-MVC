@@ -1,0 +1,5 @@
+﻿@model IEnumerable<Twitter.Web.Models.ViewModels.Tweet.TweetViewModel>
+@foreach (var tweet in Model)
+{
+    Html.RenderPartial("~/Views/Tweet/_FullTweetPartial.cshtml", tweet);
+}

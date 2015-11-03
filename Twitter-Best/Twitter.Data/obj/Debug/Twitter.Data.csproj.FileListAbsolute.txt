@@ -1,0 +1,16 @@
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Twitter.Data.dll.config
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Twitter.Data.dll
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Twitter.Data.pdb
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\EntityFramework.dll
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Twitter.Models.dll
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Twitter.Models.pdb
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\EntityFramework.xml
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\obj\Debug\Twitter.Data.csprojResolveAssemblyReference.cache
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\obj\Debug\Twitter.Data.dll
+D:\VSProjects\ASP.NET\Twitter-Best\Twitter.Data\obj\Debug\Twitter.Data.pdb

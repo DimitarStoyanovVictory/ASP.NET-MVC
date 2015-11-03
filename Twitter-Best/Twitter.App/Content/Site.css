@@ -1,0 +1,46 @@
+﻿body {
+    padding-bottom: 20px;
+    padding-top: 65px;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.register input[type="text"], .register input[type="password"], .login input[type="text"], .login input[type="password"] {
+    width: 30%;
+}
+
+.tweetUserProfileImage {
+    width: 30px;
+}
+
+.userProfileImage {
+    width: 120px;
+}
+
+.tweet {
+    margin-top: 10px;
+    border: 1px solid #a9a9a9;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+@media screen and (min-width:768px){
+    .navbar-brand-centered {
+        margin-bottom: -5px;
+        position: absolute;
+        left: 50%;
+        display: block;
+        width: 160px;
+        text-align: center;
+        background-color: #eee;
+    }
+    .navbar>.container .navbar-brand-centered, 
+    .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -80px;
+    }
+}
+
+

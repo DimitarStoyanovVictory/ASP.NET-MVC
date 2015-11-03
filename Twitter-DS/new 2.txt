@@ -1,0 +1,5 @@
+endproject
+project("{2150e333-8fdc-42a3-9474-1a3956d46de8}") = "common", "common", "{75ae3bc0-3d22-4ed5-8f92-bdc4e733bbeb}"
+endproject
+project("{fae04ec0-301f-11d3-bf4b-00c04f79efbc}") = "twitter.common", "twitter.common\twitter.common.csproj", "{61a73ac0-c997-4165-aa71-4ac1dc30d5c0}"
+endproject
