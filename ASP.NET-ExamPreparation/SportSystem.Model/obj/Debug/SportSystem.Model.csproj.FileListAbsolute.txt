@@ -1,0 +1,14 @@
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\SportSystem.Model.dll.config
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\SportSystem.Model.dll
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\SportSystem.Model.pdb
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\EntityFramework.dll
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\EntityFramework.xml
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\obj\Debug\SportSystem.Model.csprojResolveAssemblyReference.cache
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\obj\Debug\SportSystem.Model.dll
+D:\VSProjects\ASP.NET-ExamPreparation\SportSystem.Model\obj\Debug\SportSystem.Model.pdb
